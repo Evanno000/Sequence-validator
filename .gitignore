@@ -1,0 +1,13 @@
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Office temporary lock files
+~$*.xlsx
+~$*.xls
+
+# Local generated test outputs (keep input_data.xlsx!)
+validation_report.xlsx
+validated_sequences.fasta
